@@ -1,0 +1,17 @@
+{
+    "name": "hermeneusone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/hermeneusone-bower.git"
+    },
+    "description": "Hermeneus One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
